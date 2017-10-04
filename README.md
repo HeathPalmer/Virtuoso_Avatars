@@ -6,6 +6,6 @@ These are avatars created to be used in a research project conducted in High Fid
 # Screenshots
 ![Screenshot](/a3_pic.JPG)
 
-![Screenshot](/.drS.JPG)
+![Screenshot](/drS.JPG)
 
 ![Screenshot](/noah.JPG)
