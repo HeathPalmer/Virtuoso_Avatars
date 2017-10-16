@@ -9,3 +9,5 @@ These are avatars created to be used in a research project conducted in High Fid
 ![Screenshot](/drS.JPG)
 
 ![Screenshot](/noah.JPG)
+
+![Screenshot](/heath.JPG)
